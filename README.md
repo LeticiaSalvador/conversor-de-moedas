@@ -15,6 +15,7 @@ O sistema realiza conversões de moedas em tempo real utilizando uma API de câm
   - ARS → USD
   - USD → COP
   - COP → USD
+    
 - Consumo de API externa
 - Tratamento de JSON com Gson
 - Menu interativo via console
@@ -61,6 +62,6 @@ private final String apiKey = "SUA_CHAVE_AQUI";
 5. Digite o valor para conversão
 
 📌 Exemplo de uso
-Escolha uma opção: 2
-Digite o valor: 100
-Valor convertido: 19,31 USD
+- Escolha uma opção: 2
+- Digite o valor: 100
+- Valor convertido: 19,31 USD
